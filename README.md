@@ -7,7 +7,7 @@ each grid point after running the equation for a specified number of timesteps.
 Example execution
 ./heat2D3D sample.conf
 
-sample.conf is a configuration file which will specify the parameters for your simulation. Below are example con-
+sample.conf is a configuration file which will specify the parameters for your simulation. Below are example confi-
 guration files for 2 and 3 dimensions.
 
 ##### 2D CONFIGURATION EXAMPLE #####
